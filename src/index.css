@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Avenir');
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('./fonts/AvenirLTStd-Book.otf');
+  }
+
+  body {
+    font-family: 'Avenir', Sans-serif;
+    margin: 0;
+  }
