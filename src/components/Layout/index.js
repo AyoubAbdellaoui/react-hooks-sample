@@ -7,7 +7,7 @@ import { MainContainer } from './default'
 // import './layout.css'
 
 const Layout = ({ children, size }) => (
-    <div>
+    <div style={{background: '#F7F9FA'}}>
         {/* <Header /> */}
         <Header />
         <MainContainer>

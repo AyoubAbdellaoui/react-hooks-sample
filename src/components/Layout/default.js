@@ -8,7 +8,7 @@ export const MainContainer = styled.div`
     width: 100%;
     height: calc(100vh - 90px);
     flex: 1 0 auto;
-    background: #F7F9FA;
+    // background: #F7F9FA;
 
     .back {
         background: blue;

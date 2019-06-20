@@ -31,7 +31,7 @@ export const styles = theme => ({
         marginTop: theme.spacing(3),
     },
     typographyTitle: {
-        color: '#000000',
+        color: 'rgba(0, 0, 0, 1)',
         fontFamily: 'Avenir',
         fontSize: '22px',
         fontWeight: 'bold',
@@ -43,7 +43,7 @@ export const styles = theme => ({
     },
     typographyTitleI: {
         marginTop: '5px',
-        color: '#000000',
+        color: 'rgba(0, 0, 0, 0.9)',
         fontFamily: 'Avenir',
         fontSize: '18px',
         fontWeight: 'Book',
@@ -55,7 +55,7 @@ export const styles = theme => ({
     },
     typographyText: {
         marginTop: '20px',
-        color: '#484848',
+        color: 'rgba(72, 72, 72, 0.8)',
         fontFamily: 'Avenir',
         fontSize: '17px',
         fontWeight: 'Book',
