@@ -27,6 +27,6 @@ export const HeaderContainer = styled.div`
   padding: 18px 108px 17px 100px;
   background-color: #FFFFFF;
   justify-content: space-between;
-  box-shadow: 0 10px 3px -3px red;//rgba(165, 175, 186, 0.16);
+  box-shadow: 0 10px 3px -3px rgba(165, 175, 186, 0.16);
 `
 
